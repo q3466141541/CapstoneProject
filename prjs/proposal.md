@@ -127,7 +127,7 @@ gantt
        ◆主要发现1节              : finding2, after finding1, 14d
        ◆主要发现1节              : finding3, after finding2, 14d
        ◆论文文稿互审             : peerreview, after finding3, 14d
-       ◆文档写作:全文提交(TBA待定):    des7, after des6, 7d
+       ◆文档写作:全文提交(TBA待定):    des7, after peerreview, 7d
 
 
 </div>
