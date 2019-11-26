@@ -1,8 +1,8 @@
 ---
 title: "《毕业设计文档》《毕业论文文档》择一"
 image: 
-  path: /assets/xkcd-girls-math.gif
-  thumbnail: /assets/xkcd-girls-math.gif
+  path: /assets/imgs/xkcd-girls-math.gif
+  thumbnail: /assets/imgs/xkcd-girls-math.gif
   caption: "开题报告格式简要说明"
 ---
 
