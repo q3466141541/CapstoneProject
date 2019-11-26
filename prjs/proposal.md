@@ -111,11 +111,11 @@ gantt
        选题完成                  :crit, done, after des1, 7d
        Github提案文档proposal    :crit, active, 2019-11-27,6d
        ◆研究/设计发问-方法-数据关系查核  :crit, 1d
-       (一章)研究/设计发问       :crit, active, 2019-12-04,6d
+       (1章)研究/设计发问       :crit, active, 2019-12-04,6d
        ◆方法-数据 可操作性完成查核       :crit, 1d
-       (一章)方法-数据           :crit, active, 2019-12-11,13d
+       (1章)方法-数据           :crit, active, 2019-12-11,13d
        ◆文献回顾-预期贡献/创新完成查核     :crit, 1d
-       (一章)文献回顾           :crit, active, 2019-12-25,13d
+       (1章)文献回顾           :crit, active, 2019-12-25,13d
        ◆期中进度审核打分                   :1d
 
        section 研究/放假活动
@@ -123,11 +123,11 @@ gantt
        放假                     :      vac1, after des4, 35d
 
        section 文档写作(放假后)
-       ◆主要发现1节              : finding1, after des5, 14d
-       ◆主要发现1节              : finding2, after finding1, 14d
-       ◆主要发现1节              : finding3, after finding2, 14d
-       ◆论文文稿互审             : peerreview, after finding3, 14d
-       ◆文档写作-全文提交(TBA待定):    des7, after peerreview, 7d
+       ◆(1节)主要发现              : finding1, after des5, 14d
+       ◆(1节)主要发现              : finding2, after finding1, 14d
+       ◆(1节)主要发现              : finding3, after finding2, 14d
+       ◆(全文)论文文稿互审             : peerreview, after finding3, 14d
+       ◆文档写作-全文提交(TBA待定):crit, des7, after peerreview, 7d
 
 
 </div>
