@@ -91,7 +91,7 @@ image:
 ## 六丶进度安排
  说明：管理好时间和任务乃重要应用能力，必需要有优先级排序丶串行和并行。必需要有合理的[甘特图](https://www.mindtheproduct.com/tame-your-roadmap/)
 
- 工具建议：[Mermaidjs](https://mermaidjs.github.io/mermaid-live-editor/)可下載SVG
+ 工具建议：[Mermaidjs](https://mermaidjs.github.io/mermaid-live-editor/)可下载SVG
  
 <div class="mermaid" style="background-color:lightgreen;"> 
 gantt
@@ -101,13 +101,13 @@ gantt
        section 顶点课程
        已完成选题                :done,    des1, 2019-10-20,2019-11-27
        提案文档报告proposal      :active,  des2, 2019-11-27, 7d
-       文档寫作                  :         des3, after des2, 28d
+       文档写作                  :         des3, after des2, 28d
        ◆期中进度审核打分         :         des4, after des3, 7d
-       研究/放假活動             :         des5, after des4, 35d
-       文档寫作:主要发现         :         des6, after des5, 42d
-       ◆文档寫作:全文提交(TBA待定):         des7, after des6, 7d
+       研究/放假活动             :         des5, after des4, 35d
+       文档写作:主要发现         :         des6, after des5, 42d
+       ◆文档写作:全文提交(TBA待定):         des7, after des6, 7d
 
-       section 關鍵任務
+       section 关键任务
        选题完成                  :crit, done, after des1, 7d
        Github提案文档proposal    :crit, active, 2019-11-27,6d
        ◆研究/设计发问-方法-数据关系查核  :crit, 1d
@@ -118,8 +118,18 @@ gantt
        (一章)文献回顾           :crit, active, 2019-12-25,13d
        ◆期中进度审核打分                   :1d
 
-       section 研究/放假活動
-       研究                     :crit, after des6, 42d
-       放假                     :      vac1, after des6, 42d
+       section 研究/放假活动
+       研究                     :crit, after des5, 42d
+       放假                     :      vac1, after des5, 42d
+
+       section 文档写作
+       选题完成                  :crit, done, after des1, 7d
+       Github提案文档proposal    :crit, active, 2019-11-27,6d
+       ◆主要发现1节              : finding1, after des5, 14d
+       ◆主要发现1节              : finding2, after finding1, 14d
+       ◆主要发现1节              : finding3, after finding2, 14d
+       ◆论文文稿互审             : peerreview, after finding3, 14d
+       ◆文档写作:全文提交(TBA待定):    des7, after des6, 7d
+
 
 </div>
