@@ -1,10 +1,22 @@
 ---
 title: "《毕业设计文档》《毕业论文文档》择一"
+excerpt_separator: "<!--more-->"
+categories:
+  - 毕业
+tags:
+  - 开题
 image: 
   path: /assets/imgs/xkcd-girls-math.gif
   thumbnail: /assets/imgs/xkcd-girls-math.gif
   caption: "开题报告格式简要说明"
 ---
+
+
+<!--more-->
+
+<script src='https://unpkg.com/mermaid@8.4.2/dist/mermaid.min.js'></script>
+<script>mermaid.initialize({startOnLoad:true});</script>
+
 
 # 毕业论文开题报告提纲
 
@@ -54,7 +66,8 @@ image:
  为了便于文献检索，应在摘要下方另起一行注明论文的关键词。
 
 
-## 三丶论文综述
+## 三丶文献综述
+
 ### 1丶[[C]]理论及[[A]]专业建构物演进过程及[[M]]使用的方法数据
 (1-2句话总结3-4来源内容)
 ### 2丶国外研究综述
@@ -78,4 +91,34 @@ image:
 ## 六丶进度安排
  说明：管理好时间和任务乃重要应用能力，必需要有优先级排序丶串行和并行。必需要有合理的[甘特图](https://www.mindtheproduct.com/tame-your-roadmap/)
 
- 工具建议：[Mermaidjs](https://mermaidjs.github.io/mermaid-live-editor/)
+ 工具建议：[Mermaidjs](https://mermaidjs.github.io/mermaid-live-editor/)可下載SVG
+ 
+<div class="mermaid" style="background-color:lightgreen;"> 
+gantt
+       dateFormat  YYYY-MM-DD
+       title Adding GANTT diagram functionality to mermaid
+
+       section A section
+       Completed task            :done,    des1, 2014-01-06,2014-01-08
+       Active task               :active,  des2, 2014-01-09, 3d
+       Future task               :         des3, after des2, 5d
+       Future task2              :         des4, after des3, 5d
+
+       section Critical tasks
+       Completed task in the critical line :crit, done, 2014-01-06,24h
+       Implement parser and jison          :crit, done, after des1, 2d
+       Create tests for parser             :crit, active, 3d
+       Future task in critical line        :crit, 5d
+       Create tests for renderer           :2d
+       Add to mermaid                      :1d
+
+       section Documentation
+       Describe gantt syntax               :active, a1, after des1, 3d
+       Add gantt diagram to demo page      :after a1  , 20h
+       Add another diagram to demo page    :doc1, after a1  , 48h
+
+       section Last section
+       Describe gantt syntax               :after doc1, 3d
+       Add gantt diagram to demo page      :20h
+       Add another diagram to demo page    :48h
+</div>
