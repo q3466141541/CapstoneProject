@@ -119,12 +119,10 @@ gantt
        ◆期中进度审核打分                   :1d
 
        section 研究/放假活动
-       研究                     :crit, after des5, 42d
-       放假                     :      vac1, after des5, 42d
+       研究                     :crit, after des4, 35d
+       放假                     :      vac1, after des4, 35d
 
        section 文档写作
-       选题完成                  :crit, done, after des1, 7d
-       Github提案文档proposal    :crit, active, 2019-11-27,6d
        ◆主要发现1节              : finding1, after des5, 14d
        ◆主要发现1节              : finding2, after finding1, 14d
        ◆主要发现1节              : finding3, after finding2, 14d
