@@ -18,7 +18,7 @@ image:
 <script>mermaid.initialize({startOnLoad:true});</script>
 
 
-# 毕业论文开题报告提纲
+# 顶点课程/毕业设计/论文开题报告提纲
 
 * 论文题目：
 * 姓名：
@@ -96,29 +96,30 @@ image:
 <div class="mermaid" style="background-color:lightgreen;"> 
 gantt
        dateFormat  YYYY-MM-DD
-       title Adding GANTT diagram functionality to mermaid
+       title 顶点课程进度安排-甘特图
 
-       section A section
-       Completed task            :done,    des1, 2014-01-06,2014-01-08
-       Active task               :active,  des2, 2014-01-09, 3d
-       Future task               :         des3, after des2, 5d
-       Future task2              :         des4, after des3, 5d
+       section 顶点课程
+       已完成选题                :done,    des1, 2019-10-20,2019-11-27
+       提案文档报告proposal      :active,  des2, 2019-11-27, 7d
+       文档寫作                  :         des3, after des2, 28d
+       ◆期中进度审核打分         :         des4, after des3, 7d
+       研究/放假活動             :         des5, after des4, 35d
+       文档寫作:主要发现         :         des6, after des5, 42d
+       ◆文档寫作:全文提交(TBA待定):         des7, after des6, 7d
 
-       section Critical tasks
-       Completed task in the critical line :crit, done, 2014-01-06,24h
-       Implement parser and jison          :crit, done, after des1, 2d
-       Create tests for parser             :crit, active, 3d
-       Future task in critical line        :crit, 5d
-       Create tests for renderer           :2d
-       Add to mermaid                      :1d
+       section 關鍵任務
+       选题完成                  :crit, done, after des1, 7d
+       Github提案文档proposal    :crit, active, 2019-11-27,6d
+       ◆研究/设计发问-方法-数据关系查核  :crit, 1d
+       (一章)研究/设计发问       :crit, active, 2019-12-04,6d
+       ◆方法-数据 可操作性完成查核       :crit, 1d
+       (一章)方法-数据           :crit, active, 2019-12-11,13d
+       ◆文献回顾-预期贡献/创新完成查核     :crit, 1d
+       (一章)文献回顾           :crit, active, 2019-12-25,13d
+       ◆期中进度审核打分                   :1d
 
-       section Documentation
-       Describe gantt syntax               :active, a1, after des1, 3d
-       Add gantt diagram to demo page      :after a1  , 20h
-       Add another diagram to demo page    :doc1, after a1  , 48h
+       section 研究/放假活動
+       研究                     :crit, after des6, 42d
+       放假                     :      vac1, after des6, 42d
 
-       section Last section
-       Describe gantt syntax               :after doc1, 3d
-       Add gantt diagram to demo page      :20h
-       Add another diagram to demo page    :48h
 </div>
