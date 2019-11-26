@@ -19,7 +19,7 @@ email:
 description: "顶点课程/毕业设计/毕业论文/模板"
 baseurl: "/CapstoneProject"  # the optional subpath of your site, e.g. "/blog"
 url: "https://hanteng.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-author: hanteng
+author: 
   name: Associate Professor Han-Teng Liao
   twitter:
   picture:
