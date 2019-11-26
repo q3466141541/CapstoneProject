@@ -98,11 +98,11 @@ gantt
        section 顶点课程进度安排
        已完成选题                :done,    des1, 2019-10-20,2019-11-27
        提案文档报告proposal      :active,  des2, 2019-11-27, 7d
-       文档写作-期中前                  :         des3, after des2, 28d
-       ◆期中进度审核打分         :         des4, after des3, 7d
+       文档写作-期中前                  :         des3, after des2, 34d
+       ◆期中进度审核打分         :         des4, after des3, 1d
        研究/放假活动             :         des5, after des4, 35d
        文档写作-期中后         :         des6, after des5, 56d
-       ◆文档写作-全文提交(TBA待定):         des7, after des6, 7d
+       ◆文档写作-全文提交(TBA待定):crit, des7, after des6, 7d
 
        section 关键任务(放假前)
        选题完成                  :crit, done, after des1, 7d
