@@ -1,5 +1,5 @@
 ---
-title: "《毕业设计文档》《毕业论文文档》择一"
+title: "《毕业设计/论文文档》择一"
 excerpt_separator: "<!--more-->"
 categories:
   - 毕业
@@ -10,19 +10,16 @@ image:
   thumbnail: /assets/imgs/xkcd-girls-math.gif
   caption: "开题报告格式简要说明"
 ---
-
-
-<!--more-->
-
 <script src='https://unpkg.com/mermaid@8.4.2/dist/mermaid.min.js'></script>
 <script>mermaid.initialize({startOnLoad:true});</script>
 
 
-# 顶点课程/毕业设计/论文开题报告提纲
+# 顶点课程报告提纲
 
-* 论文题目：
+* 毕业设计/论文题目：
 * 姓名：
-
+* 序号:
+<!--more-->
 
 ## 设计/论文题亮点
 
