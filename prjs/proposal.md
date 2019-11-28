@@ -6,8 +6,8 @@ categories:
 tags:
   - 开题
 image: 
-  path: /assets/imgs/xkcd-girls-math.gif
-  thumbnail: /assets/imgs/xkcd-girls-math.gif
+  path: kk.jpg
+  thumbnail: kk.jpg
   caption: "开题报告格式简要说明"
 ---
 <script src='https://unpkg.com/mermaid@8.4.2/dist/mermaid.min.js'></script>
