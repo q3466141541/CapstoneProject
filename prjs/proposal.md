@@ -61,6 +61,10 @@ image:
 
 > 英文摘要内容应与中文摘要相对应。
 
+
+Ant financial is a comprehensive and inclusive open financial platform ecosystem driven by data intelligence. Inclusive Finance is one of the important directions of financial reform and development in developing countries. In 2018, the policy has been significantly increased, and the national strategic layout of Inclusive Finance has been shrinking. All the time, inclusive finance as a part of ant financial platform ecosystem, ant financial has become the development of Inclusive Finance. This paper combs the development of Inclusive Finance in ant financial service ecosystem. It focuses on the analysis of the influencing factors of Inclusive Finance in ant financial service ecosystem. On this basis, combined with the basic information of ant financial service customers, the questionnaire is designed to study the network users. After that, the causal circle diagram of network effect based on systematic thinking is used to analyze the impact of Inclusive Finance in ant financial service platform ecosystem This paper studies the development status of Inclusive Finance, and concludes the development status of Inclusive Finance under ant financial platform ecosystem and its significance for the construction and sustainable development of financial ecosystem. Based on this, this paper puts forward five suggestions for the development of general finance under the ant financial platform ecosystem, so as to improve its universality and promote the sustainable development of the financial ecosystem in the integration of ant financial platform ecosystem. The innovation of this paper is to analyze the development of Inclusive Finance from the perspective of ant financial platform ecosystem. At the same time, different methods are applied to study the market acceptance of ant financial's inclusive finance. The research method adopts the network effect cause and effect cycle diagram, hoping to provide feasible reference for ant financial to realize the Internet ecosystem.
+
+
 ### 关键词
 
 关键词：平台生态系; 网络效应；普惠金融
