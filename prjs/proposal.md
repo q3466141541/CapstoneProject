@@ -28,9 +28,7 @@ image:
 * [[A]]产出的专业建构物：文献回顾丶网络效应因果循环图
 * [[C]]立基的概念出发点：(平台/系统思维系列)网络效应丶平台生态系丶系统思维
 
-> 说明：量力而为，以两门3学分课的期末项目的量来估工作量，要抓要害而非假大空
 
-> 若师生未能有共识，建议以学生先选取网新专业之核心课及方向课2门课为主的内容及项目为基底来思考课题方向
 
 
 ## 一丶选题意义
@@ -43,24 +41,20 @@ image:
 本论文基于文献、访谈、调研的研究方法得出的数据绘制网络效应因果循环图（基于系统思维），从而分析蚂蚁金服平台生态系下的普惠金融模块，研究其生态系统的建构及意义。
 
 
-> 说明：意义主要是指外部重要性(external centrality)，假定真的做完了, 对谁有什麽样的启发及启示？对公司省成本？对公司增加营收？对领导增加全局观的决策方法？对学者及政策制定者总结最新知识？
 
-> 若师生未能有共识，建议以学生先选取网新专业之核心课及方向课2门课为主的内容及项目为基底来思考课题方向
 
 
 
 ## 二丶中英文摘要与关键词
 
 ### 摘要
-> 中英文摘要：摘要应概括反映出毕业设计(论文)的内容丶方法丶成果和结论。摘要中不宜使用公式丶图表，不标注引用文献编号。中文摘要一般500字左右
+
 
 
 蚂蚁金服是一个由数据智能驱动的普惠性综合性的开放金融平台型生态系统，普惠金融是我国金融改革与发展的重要方向之一，2018年政策明显加码,普惠金融国家战略地位不断确立。不仅如此，普惠金融作为蚂蚁金服平台生态系中的一环，蚂蚁金服也越来越重视普惠金融的发展。本文梳理了蚂蚁金服生态系下的普惠金融发展的基础性理论及其发展现状以及存在的相关问题。文章重点对蚂蚁金服的普惠金融的影响因素进行分析,在此基础上,结合蚂蚁金服客户的基本信息选项设计调查问卷,对网络使用人群进行调研后,采用系统思维化的网络效应因果循环图,对蚂蚁金服平台生态系下的普惠金融发展现状进行研究，从而得出蚂蚁金服平台生态系下普惠金融的发展情况及其对金融生态圈的构建意义和可持续发展意义。基于此,本文对蚂蚁金服平台生态系下的普惠金融的发展提出了五点建议,让蚂蚁金服平台生态系的构建中，提高其普惠性，推动金融生态圈的可持续发展。本文的创新点在于,基于蚂蚁金服平台生态系的视角来分析普惠金融的发展问题,同时应用不同的方法对蚂蚁金服的普惠金融的市场接受度进行研究,研究方法采用网络效应因果循环图,希望对蚂蚁金服构建互联网生态圈提供有价值的参考意义。  
 
 
 ### Abstract
-
-> 英文摘要内容应与中文摘要相对应。
 
 
 Ant financial is a comprehensive and inclusive open financial platform ecosystem driven by data intelligence. Inclusive Finance is one of the important directions of financial reform and development in developing countries. In 2018, the policy has been significantly increased, and the national strategic layout of Inclusive Finance has been shrinking. All the time, inclusive finance as a part of ant financial platform ecosystem, ant financial has become the development of Inclusive Finance. This paper combs the development of Inclusive Finance in ant financial service ecosystem. It focuses on the analysis of the influencing factors of Inclusive Finance in ant financial service ecosystem. On this basis, combined with the basic information of ant financial service customers, the questionnaire is designed to study the network users. After that, the causal circle diagram of network effect based on systematic thinking is used to analyze the impact of Inclusive Finance in ant financial service platform ecosystem This paper studies the development status of Inclusive Finance, and concludes the development status of Inclusive Finance under ant financial platform ecosystem and its significance for the construction and sustainable development of financial ecosystem. Based on this, this paper puts forward five suggestions for the development of general finance under the ant financial platform ecosystem, so as to improve its universality and promote the sustainable development of the financial ecosystem in the integration of ant financial platform ecosystem. The innovation of this paper is to analyze the development of Inclusive Finance from the perspective of ant financial platform ecosystem. At the same time, different methods are applied to study the market acceptance of ant financial's inclusive finance. The research method adopts the network effect cause and effect cycle diagram, hoping to provide feasible reference for ant financial to realize the Internet ecosystem.
@@ -69,7 +63,6 @@ Ant financial is a comprehensive and inclusive open financial platform ecosystem
 ### 关键词
 
 关键词：平台生态系; 网络效应；普惠金融
->  关键词是供检索用的主题词条，应采用能覆盖设计（论文）主要内容的通用技术词条（参照相应的技术术语标准）。关键词一般为3～5个，按词条的外延层次排列（外延大的排在前面）。
 
 
 
@@ -95,8 +88,6 @@ Ant financial is a comprehensive and inclusive open financial platform ecosystem
 
 
 ## 四丶参考文献
-
-> 中文文档及文献书写格式要按国家标准GB/7714－87或ACM SIGCHI格式规定，英文文档及文献要按APA或ACM SIGCHI格式规定。务必要设置好Zotero及Word Plugin。
 
 
 ［1］马广奇，魏梦珂．基于“互联网+”促进普惠金融发展的路径探索——以蚂蚁金服为例［J］．：产业与科技论坛，2018-05：
