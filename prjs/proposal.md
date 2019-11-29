@@ -115,6 +115,8 @@ Ant financial is a comprehensive and inclusive open financial platform ecosystem
 
 ［8］张体俊．电商平台企业生态系统演化的驱动因素及实证研究［Ｄ］．衡阳：南华大学，2018：5：
 
+［9］ 杰奥夫雷G.帕克, 马歇尔W.范·埃尔斯泰恩,桑基特·保罗·邱达利,志鹏．平台革命：改变世界的商业模式［Ｍ］．北京：机械工业出版社，2017：115． 
+
 Hein et al.(2019). Value co-creation practices in business-to-business platform ecosystems .Electronic Markets, 503-518.
 
 
