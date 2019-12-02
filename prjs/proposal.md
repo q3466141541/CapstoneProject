@@ -92,32 +92,33 @@ Ant financial is a comprehensive and inclusive open financial platform ecosystem
 
 * 中文参考文献：
 
-［1］马广奇，魏梦珂．基于“互联网+”促进普惠金融发展的路径探索——以蚂蚁金服为例［J］．：产业与科技论坛，2018-05：
+［1］马广奇，魏梦珂．基于“互联网+”促进普惠金融发展的路径探索——以蚂蚁金服为例［DB/OL］．：产业与科技论坛，2018-05：
 
-［2］童昱清,杨尧均．阿里商业生态系统及平台运作模式探究［J］．：科技管理研究，2019-11：
+［2］童昱清,杨尧均．阿里商业生态系统及平台运作模式探究［DB/OL］．：科技管理研究，2019-11：
 
-［3］刘杰．数字支付助推南充普惠金融发展［J］．：金融科技时代，2019-11：
+［3］刘杰．数字支付助推南充普惠金融发展［DB/OL］．：金融科技时代，2019-11：
 
-［4］郝云平,雷汉云,董永亮．普惠金融与包容性经济增长——基于中国西部地区面板数据的实证［J］．：金融与经济，2018-05：
+［4］郝云平,雷汉云,董永亮．普惠金融与包容性经济增长——基于中国西部地区面板数据的实证［DB/OL］．：金融与经济，2018-05：
 
-［5］胡小宇．蚂蚁金服互联网金融生态圈构建方式案例分析［Ｄ］．河北：河北金融学院，2019：6：
+［5］胡小宇．蚂蚁金服互联网金融生态圈构建方式案例分析［Ｄ］．河北：河北金融学院，2019：
 
-［6］李政良．互联网金融平台企业竞争优势来源研究--以蚂蚁金服为例［Ｄ］．南京：东南大学，2018：6：
+［6］李政良．互联网金融平台企业竞争优势来源研究--以蚂蚁金服为例［Ｄ］．南京：东南大学，2018：
 
-［7］李政良．互联网金融平台企业竞争优势来源研究--以蚂蚁金服为例［Ｄ］．南京：东南大学，2018：6：
+［7］李政良．互联网金融平台企业竞争优势来源研究--以蚂蚁金服为例［Ｄ］．南京：东南大学，2018：
 
-［8］张体俊．电商平台企业生态系统演化的驱动因素及实证研究［Ｄ］．衡阳：南华大学，2018：5：
+［8］张体俊．电商平台企业生态系统演化的驱动因素及实证研究［Ｄ］．衡阳：南华大学，2018：
 
 ［9］ 杰奥夫雷G.帕克, 马歇尔W.范·埃尔斯泰恩,桑基特·保罗·邱达利,志鹏．平台革命：改变世界的商业模式［Ｍ］．北京：机械工业出版社，2017：115． 
 
 * 英文参考文献：
 
 Hein, A., Weking, J., Schreieck, M., Wiesche, M., Böhm, M., & Krcmar, H. (2019). Value co-creation practices in <br/>
-&emsp;&emsp;&emsp;&emsp;business-to-business platform ecosystems. Electronic Markets, 29(3), 503–518. https://doi.org<br/>
-&emsp;&emsp;&emsp;&emsp;/10.1007/s12525-019-00337-y
+&emsp;&emsp;&emsp;business-to-business platform ecosystems. Electronic Markets, 29(3), 503–518. https://doi.org<br/>
+&emsp;&emsp;&emsp;/10.1007/s12525-019-00337-y
 
 Zhang, M., & Yang, J. (2019). Research on Financial Technology and Inclusive Finance <br/> 
-&emsp;&emsp;&emsp;&emsp;Development.Proceedings of the 2018 6th International Education, Economics, Social Science, Arts,<br/> &emsp;&emsp;&emsp;&emsp;Sports and Management Engineering Conference (IEESASM 2018). Presented at the Proceedings of<br/> &emsp;&emsp;&emsp;&emsp;the 2018 6th International Education,Economics, Social Science, Arts, Sports and Management<br/> &emsp;&emsp;&emsp;&emsp;Engineering Conference (IEESASM 2018), Qingdao, China.https://doi.org/10.2991/ieesasm-18.2019.14
+&emsp;&emsp;&emsp;Development.Proceedings of the 2018 6th International Education, Economics, Social Science, Arts,<br/> &emsp;&emsp;&emsp;Sports and Management Engineering Conference (IEESASM 2018). Presented at the Proceedings of<br/> 
+&emsp;&emsp;&emsp;the 2018 6th International Education,Economics, Social Science, Arts, Sports and Management<br/> &emsp;&emsp;&emsp;Engineering Conference (IEESASM 2018), Qingdao, China.https://doi.org/10.2991/ieesasm-18.2019.14
 
 
 
