@@ -117,7 +117,7 @@ Hein, A., Weking, J., Schreieck, M., Wiesche, M., Böhm, M., & Krcmar, H. (2019)
 &emsp;&emsp;&emsp;&emsp;/10.1007/s12525-019-00337-y
 
 Zhang, M., & Yang, J. (2019). Research on Financial Technology and Inclusive Finance <br/> 
-&emsp;&emsp;&emsp;&emsp;Development.Proceedings of the 2018 6th International Education, Economics, Social Science, Arts,<br/> &emsp;&emsp;&emsp;&emsp;Sports and Management Engineering Conference (IEESASM 2018). Presented at the Proceedings of<br/> &emsp;&emsp;&emsp;&emsp;the 2018 6th International Education,Economics, Social Science, Arts, Sports and Management Engineering Conference (IEESASM 2018), Qingdao, China.https://doi.org/10.2991/ieesasm-18.2019.14
+&emsp;&emsp;&emsp;&emsp;Development.Proceedings of the 2018 6th International Education, Economics, Social Science, Arts,<br/> &emsp;&emsp;&emsp;&emsp;Sports and Management Engineering Conference (IEESASM 2018). Presented at the Proceedings of<br/> &emsp;&emsp;&emsp;&emsp;the 2018 6th International Education,Economics, Social Science, Arts, Sports and Management<br/> &emsp;&emsp;&emsp;&emsp;Engineering Conference (IEESASM 2018), Qingdao, China.https://doi.org/10.2991/ieesasm-18.2019.14
 
 
 
