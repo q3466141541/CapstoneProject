@@ -116,8 +116,7 @@ Hein, A., Weking, J., Schreieck, M., Wiesche, M., Böhm, M., & Krcmar, H. (2019)
 &emsp;&emsp;&emsp;&emsp;business-to-business platform ecosystems. Electronic Markets, 29(3), 503–518. https://doi.org<br/>
 &emsp;&emsp;&emsp;&emsp;/10.1007/s12525-019-00337-y
 
-Zhang, M., & Yang, J. (2019). Research on Financial Technology and Inclusive Finance Development. <br/>
-&emsp;&emsp;&emsp;&emsp;Proceedings of the 2018 6th International Education, Economics, Social Science, Arts, Sports and Management<br/> &emsp;&emsp;&emsp;&emsp;Engineering Conference (IEESASM 2018). Presented at the Proceedings of the 2018 6th International Education,<br/> &emsp;&emsp;&emsp;&emsp;Economics, Social Science, Arts, Sports and Management Engineering Conference (IEESASM 2018), Qingdao, China.<br/> &emsp;&emsp;&emsp;&emsp;https://doi.org/10.2991/ieesasm-18.2019.14
+Zhang, M., & Yang, J. (2019). Research on Financial Technology and Inclusive Finance Development.Proceedings of the 2018 6th International Education, Economics, Social Science, Arts, Sports and Management Engineering Conference (IEESASM 2018). Presented at the Proceedings of the 2018 6th International Education,Economics, Social Science, Arts, Sports and Management Engineering Conference (IEESASM 2018), Qingdao, China.https://doi.org/10.2991/ieesasm-18.2019.14
 
 
 
