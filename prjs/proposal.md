@@ -91,6 +91,7 @@ Ant financial is a comprehensive and inclusive open financial platform ecosystem
 ## 四丶参考文献
 
 * 中文参考文献：
+
 ［1］马广奇，魏梦珂．基于“互联网+”促进普惠金融发展的路径探索——以蚂蚁金服为例［J］．：产业与科技论坛，2018-05：
 
 ［2］童昱清,杨尧均．阿里商业生态系统及平台运作模式探究［J］．：科技管理研究，2019-11：
@@ -110,9 +111,10 @@ Ant financial is a comprehensive and inclusive open financial platform ecosystem
 ［9］ 杰奥夫雷G.帕克, 马歇尔W.范·埃尔斯泰恩,桑基特·保罗·邱达利,志鹏．平台革命：改变世界的商业模式［Ｍ］．北京：机械工业出版社，2017：115． 
 
 * 英文参考文献：
-Hein, A., Weking, J., Schreieck, M., Wiesche, M., Böhm, M., & Krcmar, H. (2019). Value co-creation practices in business-to-business       platform ecosystems. Electronic Markets, 29(3), 503–518. https://doi.org/10.1007/s12525-019-00337-y
 
-Zhang, M., & Yang, J. (2019). Research on Financial Technology and Inclusive Finance Development. Proceedings of the 2018 6th International Education, Economics, Social Science, Arts, Sports and Management Engineering Conference (IEESASM 2018). 发表于 Proceedings of the 2018 6th International Education, Economics, Social Science, Arts, Sports and Management Engineering Conference (IEESASM 2018), Qingdao, China. https://doi.org/10.2991/ieesasm-18.2019.
+1.Hein, A., Weking, J., Schreieck, M., Wiesche, M., Böhm, M., & Krcmar, H. (2019). Value co-creation practices in business-to-business       platform ecosystems. Electronic Markets, 29(3), 503–518. https://doi.org/10.1007/s12525-019-00337-y
+
+2.Zhang, M., & Yang, J. (2019). Research on Financial Technology and Inclusive Finance Development. Proceedings of the 2018 6th International Education, Economics, Social Science, Arts, Sports and Management Engineering Conference (IEESASM 2018). 发表于 Proceedings of the 2018 6th International Education, Economics, Social Science, Arts, Sports and Management Engineering Conference (IEESASM 2018), Qingdao, China. https://doi.org/10.2991/ieesasm-18.2019.
 
 
 
