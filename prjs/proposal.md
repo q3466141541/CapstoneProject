@@ -17,8 +17,7 @@ image:
 # 顶点课程报告提纲
 
 * 论文题目：蚂蚁金服平台生态系下的普惠金融：基于系统思维的网络效应因果循环图分析<br/>
-&emsp;&emsp;&emsp;&emsp;&emsp;The Inclusive Finance of Ant Financial's platform ecosystem:Analysis of the causal loop diagram of network effect based on systematic thinking
-
+&emsp;&emsp;&emsp;&emsp;&emsp;The Inclusive Finance of Ant Financial's platform ecosystem:Analysis of the causal loop diagram of network effect based on systematic thinking<br/>
 * 姓名: 赖懂伊
 * 序号: S蚂
 <!--more-->
@@ -110,8 +109,8 @@ Ant financial is a comprehensive and inclusive open financial platform ecosystem
 * 英文参考文献：
 
 Hein, A., Weking, J., Schreieck, M., Wiesche, M., Böhm, M., & Krcmar, H. (2019). Value co-creation practices in <br/>
-&emsp;&emsp;&emsp;business-to-business platform ecosystems. Electronic Markets, 29(3), 503–518. https://doi.org<br/>
-&emsp;&emsp;&emsp;/10.1007/s12525-019-00337-y
+&emsp;&emsp;&emsp;business-to-business platform ecosystems. Electronic Markets, 29(3), 503–518. https://doi.org/10.<br/>
+&emsp;&emsp;&emsp;1007/s12525-019-00337-y
 
 Zhang, M., & Yang, J. (2019). Research on Financial Technology and Inclusive Finance <br/> 
 &emsp;&emsp;&emsp;Development.Proceedings of the 2018 6th International Education, Economics, Social Science, Arts,<br/> &emsp;&emsp;&emsp;Sports and Management Engineering Conference (IEESASM 2018). Presented at the Proceedings of<br/> 
