@@ -17,7 +17,7 @@ image:
 # 顶点课程报告提纲
 
 * 论文题目：蚂蚁金服平台生态系下的普惠金融：基于系统思维的网络效应因果循环图分析<br/>
-&emsp;&emsp;&emsp;The Inclusive Finance of Ant Financial's platform ecosystem:Analysis of the causal loop<br/> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;diagram of network effect based on systematic thinking<br/>
+&emsp;&emsp;&emsp;The Inclusive Finance of Ant Financial's platform ecosystem:Analysis of the causal loop<br/> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;diagram of network effect based on systematic thinking<br/>
 * 姓名: 赖懂伊
 * 序号: S蚂
 <!--more-->
