@@ -17,7 +17,7 @@ image:
 # 顶点课程报告提纲
 
 * 论文题目：蚂蚁金服平台生态系下的普惠金融：基于系统思维的网络效应因果循环图分析<br/>
-The Inclusive Finance of Ant Financial's platform ecosystem:Analysis of the causal loop diagram<br/> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;of network effect based on systematic thinking<br/>
+The Inclusive Finance of Ant Financial's Platform Ecosystem:Analysis of the causal loop diagram<br/> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;of network effect based on systematic thinking<br/>
 * 姓名: 赖懂伊
 * 序号: S蚂
 <!--more-->
@@ -120,8 +120,8 @@ Zhang, M., & Yang, J. (2019). Research on Financial Technology and Inclusive Fin
 ## 五丶研究条件和可能存在的问题
 
 本文对蚂蚁金服平台生态系下的普惠金融进行研究，选题有一定的理论价值和现实意义，但因个人能力所限，研究时间不够充分，有些研究问题仍值得进一步探讨。<br/>
-1.从平台生态系统的角度，本文分析蚂蚁金服平台生态系下的普惠金融。然而，蚂蚁金服开放的资源十分丰富，其合作对象也十分之多，“普惠金融”仅作为蚂蚁金服平台生态系构建的一环，不足以支撑整个蚂蚁金服平台构建生态系。因此只能做基本的理论参考，后续可以进一步研究的方向。<br/>
-2.从研究方法的角度，本文运用文献回顾、访谈调研的方法，绘制基于系统思维的网络效应因果循环图，从而分析蚂蚁金服平台生态系下的普惠金融。蚂蚁金服的相关文献丰富以及用户群体基数大，本文文献、调研的对象并没有覆盖全部，而且蚂蚁金服平台生态系的普惠金融还有很多值得研究的角度和方向，比如研究其组织形式、竞争策略、模块化等，都是可以进一步研究的方向。
+1.从平台生态系统的研究角度，本文分析蚂蚁金服平台生态系下的普惠金融。然而，蚂蚁金服开放的资源十分丰富，其合作对象也十分之多，“普惠金融”仅作为蚂蚁金服平台生态系构建的一环，不足以支撑研究整个蚂蚁金服平台生态系的构建。因此只能做基本的理论参考，后续可以进一步研究的方向。<br/>
+2.在研究方法的选择上，本文运用文献回顾、访谈调研的方法，绘制基于系统思维的网络效应因果循环图，从而分析蚂蚁金服平台生态系下的普惠金融。但蚂蚁金服的相关文献丰富以及用户群体基数大，本文文献、调研的对象并没有覆盖全部，而且蚂蚁金服平台生态系的普惠金融还有很多值得研究的角度和方向，比如研究其组织形式、竞争策略、模块化等，都是可以进一步研究的方向。
 
 
 ## 六丶进度安排
